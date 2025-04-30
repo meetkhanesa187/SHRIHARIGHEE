@@ -1,0 +1,6 @@
+admin 
+
+ID: meetkhanesa@gmail.com
+Password: ba7861a171aa64856b49f58b066b12f6
+
+ (Note: password is in MD5 formate first convert and after put.)
